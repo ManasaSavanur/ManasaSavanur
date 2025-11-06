@@ -2,9 +2,9 @@
 
 Welcome to my GitHub profile! I'm a Data & Analytics Engineer. I love to experiment with newer data frameworks, cleaner dashboards and a bunch of random things.
 
-🔍 Senior Analytics Consultant @ WellsFargo | Ex: J.P.Morgan
-📊 Obsessed with making data make sense — clean, reliable, and ready to use.
-🧠 “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
+🔍 Senior Analytics Consultant @ WellsFargo | Ex: J.P.Morgan  
+📊 Obsessed with making data make sense — clean, reliable, and ready to use.  
+🧠 “Simplicity is the ultimate sophistication.” – Leonardo da Vinci  
 💻 Let's connect: manasa.savanur@gmail.com
 
 ## Tools I like to use
