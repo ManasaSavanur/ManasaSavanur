@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Manasa Savanur 👋
 
-<!--
-**ManasaSavanur/ManasaSavanur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a Data & Analytics Engineer. I love to experiment with newer data frameworks, cleaner dashboards and a bunch of random things.
 
-Here are some ideas to get you started:
+🔍 Senior Analytics Consultant @ WellsFargo | Ex: J.P.Morgan
+📊 Obsessed with making data make sense — clean, reliable, and ready to use.
+🧠 “Simplicity is the ultimate sophistication.” – Leonardo da Vinci
+💻 Let's connect: manasa.savanur@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I like to use
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,html,css,docker,fastapi,figma,vscode)](https://skillicons.dev)
+
+## 🔭 I’m currently working on
+- A real-time crypto portfolio analytics engine that fetches historical purchase prices and current market data via APIs for your personal holdings with an interactive web dashboard for real-time data visualization and portfolio performance monitoring.
