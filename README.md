@@ -1,6 +1,7 @@
 # Hi, I'm Manasa Savanur 👋
 
-Welcome to my GitHub profile! I'm a Data & Analytics Engineer. I love experimenting with different data frameworks, cleaner dashboards, portfolio analytics to improve my investments, and a bunch of other things.
+Welcome to my GitHub profile! I'm a Data & Analytics Engineer. In my 9-5, I build data pipelines and analytic platforms, I use Python - dagster - PosetgreSQL - Github - Copilot - Power BI. 
+In my personal projects, I love experimenting with different data frameworks, airflow, dashboard alternatives etc.
 
 🔍 Senior Analytics Consultant @ Wells Fargo | Ex: J.P.Morgan  
 📊 Obsessed with making data make sense — clean, reliable, and ready to use.  
