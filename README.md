@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a Data Scientist & Analytics Engineer. 
 
-In my 9-5, I build financial data models, data pipelines to support them and analytic platforms to provide self-service analytics to senior management. I like to use Python - Airflow - PosetgreSQL - Github - Copilot - Power BI. 
+In my 9-5, I build financial data models, data pipelines to support them, and design dashboards that provide self-service analytics to senior management.
 
 In my personal projects, I love experimenting with different data structures and dashboard alternatives (That's how I play dress-up with data)
 
