@@ -3,6 +3,8 @@
 Welcome to my GitHub profile! I'm a Data Scientist & Analytics Engineer. 
 
 In my 9-5, I build financial data models, data pipelines to support them, and design dashboards that provide self-service analytics to senior management.
+I am a certified Financial Risk Manager(FRM) and I can talk business.
+<img width="258" height="263" alt="image" src="https://github.com/user-attachments/assets/54097cb0-6b8f-4eab-b229-7ee3e5afd808" />
 
 In my personal projects, I love experimenting with different data structures and dashboard alternatives (Gotta make it look pretty!)
 
