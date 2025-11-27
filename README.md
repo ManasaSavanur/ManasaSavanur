@@ -1,10 +1,10 @@
 # Hi, I'm Manasa Savanur 👋
 
-Welcome to my GitHub profile! I'm a Data Scientist & Analytics Engineer. 
+Welcome to my GitHub profile! I'm a Data Scientist & Data/Analytics Engineer. 
 
 In my 9-5, I build financial data models, data pipelines to support them, and design dashboards that provide self-service analytics to senior management.
 
-In my personal projects, I love experimenting with different data structures and dashboard alternatives (gotta make it look pretty!)
+In my personal projects, I love experimenting with different data structures and dashboard alternatives.
 
 🔍 Senior Analytics Consultant @ Wells Fargo | Ex: J.P.Morgan  
 📊 Obsessed with making data make sense — clean, reliable, and ready to use.  
