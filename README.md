@@ -15,4 +15,4 @@ In my personal projects, I love experimenting with different data structures and
 [![My Skills](https://skillicons.dev/icons?i=py,postgres,html,css,docker,fastapi,figma,vscode)](https://skillicons.dev)
 
 ## 🔭 I’m currently working on
-- A real-time crypto portfolio analytics engine that fetches historical purchase prices and current market data via APIs for your personal holdings with an interactive web dashboard for real-time data visualization and portfolio performance monitoring.
+- Using HTML in Power BI 
