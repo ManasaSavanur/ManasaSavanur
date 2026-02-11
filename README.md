@@ -6,7 +6,7 @@ In my 9-5, I build analytical dashboards, financial data models and data pipelin
 
 In my personal projects, I love experimenting with different data structures and dashboard designs.
 
-🔍 Senior Analytics Consultant @ Wells Fargo | Ex: J.P.Morgan  
+🔍 Senior Data Analyst @ Wells Fargo | Ex: J.P.Morgan  
 📊 Obsessed with making data make sense — clean, reliable, and ready to use.  
 🧠 “Simplicity is the ultimate sophistication.” – Leonardo da Vinci  
 💻 Let's connect: manasa.savanur@gmail.com
