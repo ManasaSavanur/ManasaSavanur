@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a Data/Analytics Engineer with a background in
 In my 9-5, I build analytical dashboards, financial data models, and data pipelines to provide self-service analytics to multiple stakeholders.
 
 In my personal projects, I love experimenting with different data structures and dashboard designs.
+I share more details about my projects here - https://medium.com/@manasa-savanur
 
 🔍 Senior Data Analyst @ Wells Fargo | Ex: J.P.Morgan  
 📊 Obsessed with making data make sense — clean, reliable, and ready to use.  
